@@ -18,7 +18,7 @@ This is Music Gallery app made with React js.This gallery will help you to find 
 
 CLick 👇
 
-https://csb-xdbsk.netlify.app/
+https://your-music-gallery.netlify.app/
 
 ## Connect me
 
